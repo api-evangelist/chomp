@@ -33,14 +33,18 @@ x-category: "Food & Drink"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
+  - Food and Beverage
+  - Public APIs
+tags_raw:
   - Food And Drink
   - Public APIs
 apis:
   - name: Chomp
     description: "Data about various grocery products and foods"
     humanURL: https://chompthis.com/api/
-    baseURL: https://chompthis.com/api/
     tags:
+      - Food and Beverage
+    tags_raw:
       - Food And Drink
     properties:
       - type: Documentation
